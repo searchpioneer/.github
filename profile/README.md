@@ -1,4 +1,4 @@
-<img align="right" width="15em" height="auto" src="https://searchpioneer.com/assets/svg/logos/logo.svg">
+<img align="right" width="300" height="auto" src="https://searchpioneer.com/assets/svg/logos/logo.svg">
 
 # Search Pioneer Github
 
