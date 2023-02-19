@@ -12,7 +12,7 @@ With our full-text and vector search expertise, you'll have access to the latest
 
 # Repositories
 
-| Technology   	                                                                                                          | Repository      												          | Description   													 | Build            																					|
+| Technology   	                                                                                                          | Project      												          | Description   													 | Build            																					|
 | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | <img align="right" width="80" height="auto" src="https://searchpioneer.com/assets/svg/clients/marqo.svg">               | [`marqo-dotnet`](https://github.com/searchpioneer/marqo-dotnet)         | A Microsoft .NET native client for [Marqo](https://www.marqo.ai/) | ![Tests status](https://github.com/searchpioneer/marqo-dotnet/actions/workflows/tests.yml/badge.svg) |
 | <img align="right" width="80" height="auto" src="https://searchpioneer.com/assets/svg/clients/weaviate.svg">            | [`weaviate-dotnet-client`](https://github.com/searchpioneer/weaviate-dotnet-client)         | A Microsoft .NET native client for [Weaviate](https://weaviate.io/) | ![Tests status](https://github.com/searchpioneer/weaviate-dotnet-client/actions/workflows/tests.yml/badge.svg) |
