@@ -4,11 +4,13 @@
 
 [https://searchpioneer.com/](https://searchpioneer.com/)
 
-Our mission is to provide cutting-edge full-text and vector search solutions that will revolutionize your business. Looking for a game-changing search solution? Search Pioneer has got you covered.
+Our mission at Search Pioneer is to provide cutting-edge full-text and vector search solutions that will revolutionize your business. Are you looking for a game-changing search solution? We have got you covered.
 
 Our team of experts specializes in providing guidance and implementation for research and development projects, consulting services for search optimization, training, and search solutions using open source software such as Apache Lucene/Solr, Elasticsearch, OpenSearch, Weaviate, Marqo, Qdrant, Pinecone, and Vespa.
 
-With our full-text and vector search expertise, you'll have access to the latest advancements in Information Retrieval that will help you achieve greater efficiency, accuracy, and precision in your search results. Don't wait to take your search capabilities to the next level - contact us today!
+We bring extensive experience in building RAG (retrieval augmented generation) applications and are esteemed contributors to the Semantic Kernel AI orchestration framework. Having developed clients for some of the most popular vector AI databases, we are equipped to enhance your search capabilities.
+
+With our full-text and vector search expertise, you'll gain access to the latest advancements in Information Retrieval that will help you achieve greater efficiency, accuracy, and precision in your search results. Don't wait to elevate your search capabilities—contact us today!
 
 # Repositories
 
