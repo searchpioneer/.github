@@ -14,7 +14,13 @@ With our full-text and vector search expertise, you'll gain access to the latest
 
 # Repositories
 
-## .NET clients
+## Lingua.NET
+
+[`lingua-donet`](https://github.com/searchpioneer/lingua-dotnet)
+
+A .NET port of the JVM and Rust implementations of Lingua.
+
+## .NET clients for Search Technologies
 
 | Technology   	                                                                                                          | Project      												          | Description   													 | Build            																					|
 | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
