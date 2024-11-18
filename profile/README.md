@@ -14,11 +14,17 @@ With our full-text and vector search expertise, you'll gain access to the latest
 
 # Repositories
 
-## Lingua.NET
+## Lingua for .NET
 
 [`lingua-donet`](https://github.com/searchpioneer/lingua-dotnet)
 
-A .NET port of the JVM and Rust implementations of Lingua.
+A .NET port of the JVM and Rust implementations of Lingua, a natural language detection library.
+
+## RankLib for .NET
+
+[`ranklib-dotnet`](https://github.com/searchpioneer/ranklib-dotnet)
+
+A .NET port of RankLib, a Learning to Rank library.
 
 ## .NET clients for Search Technologies
 
