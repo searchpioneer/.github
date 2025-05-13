@@ -16,7 +16,7 @@ Don't wait to elevate your search capabilities— [Contact us today](https://sea
 
 ## Lingua for .NET
 
-[`lingua-donet`](https://github.com/searchpioneer/lingua-dotnet)
+[`lingua-dotnet`](https://github.com/searchpioneer/lingua-dotnet)
 
 A .NET port of the JVM and Rust implementations of Lingua, a natural language detection library.
 
